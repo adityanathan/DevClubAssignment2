@@ -1,0 +1,22 @@
+.left{
+  text-align: left;
+}
+.center{
+  text-align: center;
+}
+.right{
+  text-align: right;
+}
+table {
+    width:50%;
+    border-collapse: collapse;
+}
+td {
+    height: 20px;
+}
+table, tr, td {
+   border: 1px solid black;
+}
+.special td{
+  height:50px;
+}
