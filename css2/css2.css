@@ -1,0 +1,39 @@
+body{
+	
+    background: url('https://blog.pixelingene.com/images/2008-09-23-quick-tip-to-get-a-striped-background/image7.png') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        z-index:-1;
+
+}
+
+div.graybox{
+	
+	width:725px;
+	height:600px;
+	position:relative;
+	margin:50%;
+	left:-375px;
+	top:-250px;
+    border-radius:25px;
+	background-color: #717375;
+    
+}
+h2{
+	color:white;
+	text-align:center;
+}
+.graybox img{
+	width: 200px;
+	height: 140px;
+	margin:20px;
+	float:left;
+	border-radius:25px;
+
+}
+
+
+
+

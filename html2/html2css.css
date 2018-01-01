@@ -20,3 +20,6 @@ table, tr, td {
 .special td{
   height:50px;
 }
+.special tr, td{
+	width:33%;
+}
